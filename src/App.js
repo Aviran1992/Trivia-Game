@@ -3,7 +3,6 @@ import { BrowserRouter, Route } from 'react-router-dom';
 import './App.css';
 
 import GameMenu from './components/GameMenu';
-import Summary from './components/Score';
 import Questions from './components/Questions';
 
 const App = () => {

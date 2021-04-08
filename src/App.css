@@ -21,6 +21,10 @@
   height: 70vh;
 }
 
+.game-menu select {
+  height: 1.5rem;
+}
+
 img {
   width: 25rem;
   border-radius: 0.5rem;
@@ -30,6 +34,7 @@ label {
   margin: 0.5rem;
   color: white;
   letter-spacing: 0.1rem;
+  text-align: center;
 }
 
 a {
